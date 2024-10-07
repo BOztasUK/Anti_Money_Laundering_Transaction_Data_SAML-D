@@ -43,7 +43,7 @@ The dataset incorporates 28 typologies (11 normal and 17 suspicious) that aim to
 
 You can access the SAML-D dataset here:
 
-[**SAML-D Dataset Download**]([link_to_dataset](https://www.kaggle.com/datasets/berkanoztas/synthetic-transaction-monitoring-dataset-aml))
+[**SAML-D Dataset Download**](https://www.kaggle.com/datasets/berkanoztas/synthetic-transaction-monitoring-dataset-aml)
 
 ## More Information
 
